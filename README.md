@@ -1,10 +1,14 @@
-# Deep Learning-Based Super-Resolution and Visualization of Ocean Internal Waves
+# 基于深度学习的海洋内波数据超分辨率增强与可视化系统
 
-采用多种设计模式构建项目，包括工厂方法、单例模式、建造者模式、适配器模式、桥接模式、组合模式等，形成易拓展，精炼，健壮的代码工程。
+**项目概述**
 
-- 海洋内波超分项目链接：https://github.com/spcrey/attention-isw-hr
-- 海洋数据可视化工具包链接：https://github.com/spcrey/odvpkg
-- 内波可视化项目链接：https://github.com/spcrey/isw-visual
+作为研究生课题，本项目专注于开发一套基于深度学习的超分辨率增强和可视化系统，旨在提升海洋内波数据的分辨率，增强海洋环境监测和分析的精确度。
+
+**项目链接**
+
+- 基于注意力机制的海洋内波超分辨率重构：https://github.com/spcrey/attention-isw-hr
+- 海洋数据可视化工具包：https://github.com/spcrey/odvpkg
+- 内波可视化交互合作项目：https://github.com/spcrey/isw-visual
 
 ```python
 # 超分部分训练过程代码风格展示
